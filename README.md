@@ -1,5 +1,5 @@
 👋 Hi, I’m Tanaya Rajhans
-- 👀 I’m interested in exploring new things
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python,Web Development
 - 📫 How to reach me :  
  https://www.linkedin.com/in/tanaya-rajhans-9b3786236/
