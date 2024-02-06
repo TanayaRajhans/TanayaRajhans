@@ -1,5 +1,4 @@
 👋 Hi, I’m Tanaya Rajhans
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python,Web Development
 - 📫 How to reach me :  
  rajhanstanaya@gmail.com
